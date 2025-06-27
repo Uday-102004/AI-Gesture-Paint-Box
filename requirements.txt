@@ -5,3 +5,4 @@ mediapipe
 numpy
 python-engineio
 python-socketio
+gunicorn
